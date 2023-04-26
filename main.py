@@ -64,5 +64,5 @@ if __name__ == "__main__":
     printMatrix(matrizC)
 
 '''
-No exemplo, não conseguimos controlar quando uma thread executará com precisão ou qual núcleo da CPU a executará, uma vez que ambas são responsabilidades de baixo nível tratadas pelo sistema operacional subjacente.
+No exemplo, não conseguimos controlar quando uma thread executará com precisão ou qual núcleo da CPU o executará, uma vez que ambas são responsabilidades de baixo nível tratadas pelo sistema operacional subjacente.
 '''
